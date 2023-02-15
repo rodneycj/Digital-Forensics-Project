@@ -26,3 +26,4 @@ Install tshark
 
      sudo apt-get update
      sudo apt install tshark -y
+Allow non-superusers to capture packets
