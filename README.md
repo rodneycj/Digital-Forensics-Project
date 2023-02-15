@@ -12,5 +12,6 @@ Procedure – Detailed Lab Steps
 Log in to the SIEM vm.
 
 Make sure the splunk home settings are correct.
-export SPLUNK_HOME=”/opt/splunk”
+
+     export SPLUNK_HOME=”/opt/splunk”
 
