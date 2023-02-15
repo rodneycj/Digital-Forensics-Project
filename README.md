@@ -14,4 +14,6 @@ Log in to the SIEM vm.
 Make sure the splunk home settings are correct.
      
      export SPLUNK_HOME=”/opt/splunk”
+     
+Edit the /etc/environment file
 
