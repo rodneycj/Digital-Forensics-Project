@@ -20,4 +20,5 @@ Edit the /etc/environment file
      sudo nano /etc/environment
      
 Make sure the second line of the file says, SPLUNK_HOME=”/opt/splunk”
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
