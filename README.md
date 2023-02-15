@@ -9,3 +9,7 @@ The data provided for this lab came from the Western Regional Collegiate Cyber D
 
 Procedure – Detailed Lab Steps
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Log in to the SIEM vm.
+
+Make sure the splunk home settings are correct.
+export SPLUNK_HOME=”/opt/splunk”
