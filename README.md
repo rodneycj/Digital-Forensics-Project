@@ -22,3 +22,7 @@ Edit the /etc/environment file
 Make sure the second line of the file says, SPLUNK_HOME=”/opt/splunk”
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Install tshark
+
+     sudo apt-get update
+     sudo apt install tshark -y
