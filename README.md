@@ -1,5 +1,5 @@
 # Digital-Forensics-Project
-This project was done during our Flatiron School bootcamp.
+School lab using Splunk.
 
 Abstract: The goal of this lab is to understand how digital evidence is obtained, cataloged and the incident response started in a virtual environment.  
 
