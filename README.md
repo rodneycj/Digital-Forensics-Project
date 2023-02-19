@@ -58,8 +58,11 @@ The app should start indexing the data within 3 minutes, but this can take a whi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Go to the PCAP Analyzer for Splunk app
-Under Conversations, add the pcap file to analyze on various screens via “Select tcpdump files” 
+Under Conversations, add the pcap file to analyze on various screens via “Select tcpdump files”.
+
 In the "Select Statistics", select Conversations by Packets.
+
 Hit Submit.
+
 Check the results below.
 
