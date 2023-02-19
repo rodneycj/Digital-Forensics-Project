@@ -33,3 +33,5 @@ Before we look at the Splunk app – let’s look at what a packet capture actua
      sudo tcpdump
 
 While tcpdump is running in the terminal, download and install the PCAP Analyzer for Splunk
+
+Restart your Splunk instance after the installation.
