@@ -27,3 +27,9 @@ Install tshark
      sudo apt-get update
      sudo apt install tshark -y
 Allow non-superusers to capture packets
+
+Before we look at the Splunk app – let’s look at what a packet capture actually looks like. Open a terminal window and type in  
+
+     sudo tcpdump
+
+While tcpdump is running in the terminal, download and install the PCAP Analyzer for Splunk
