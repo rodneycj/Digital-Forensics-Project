@@ -55,6 +55,7 @@ Set your host value to siem.
 Click “Next”
 
 The app should start indexing the data within 3 minutes, but this can take a while to complete. The next step will not work until the data has been fully indexed.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Go to the PCAP Analyzer for Splunk app
 Under Conversations, add the pcap file to analyze on various screens via “Select tcpdump files” 
