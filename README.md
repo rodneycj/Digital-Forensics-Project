@@ -66,3 +66,4 @@ Hit Submit.
 
 Check the results below.
 
+![100122_SIEM400-4 Lab](https://user-images.githubusercontent.com/123989567/219963634-a6c80a55-cd97-4d35-a25c-769b48060910.jpg)
