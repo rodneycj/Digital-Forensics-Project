@@ -42,3 +42,15 @@ Download an example PCAP file to the /home/siem/PCAP/ directory to investigate.
 
      cd /home/siem/ 
      git clone https://github.com/pat-oconnor/PCAP/ 
+     
+Log in to Splunk and create a new index called investigations (Settings > Indexes menu.)
+
+Next, Settings > Data Inputs > PCAP File Location
+
+Select New (upper right corner).
+
+Enter in WRCCDC for the name field and /home/siem/PCAP/ for the path. 
+Check the “More settings” checkbox and set the index to  “investigations”. 
+Set your host value to siem.
+Click “Next”
+
