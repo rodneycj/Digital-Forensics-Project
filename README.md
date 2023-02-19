@@ -5,8 +5,6 @@ Abstract: The goal of this lab is to understand how digital evidence is obtained
 
 In this lab, we will be running PCAP Analysis for Splunk. Pcap files are network packet captures. Splunk will ingest these files so you can do an analysis on them. 
 
-The data provided for this lab came from the Western Regional Collegiate Cyber Defense Competition in February of 2019. 
-
 Procedure – Detailed Lab Steps
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Log in to the SIEM vm.
@@ -58,7 +56,7 @@ The app should start indexing the data within 3 minutes, but this can take a whi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Go to the PCAP Analyzer for Splunk app
-Under Conversations, add the pcap file to analyze on various screens via “Select tcpdump files”.
+Under Conversations, add the pcap file to analyze on various screens via “Select tcpdump files”. (The data provided for this lab came from the Western Regional Collegiate Cyber Defense Competition in February of 2019.)
 
 In the "Select Statistics", select Conversations by Packets.
 
