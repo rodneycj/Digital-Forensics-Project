@@ -26,7 +26,7 @@ Install tshark
      sudo apt install tshark -y
 Allow non-superusers to capture packets
 
-Before we look at the Splunk app – let’s look at what a packet capture actually looks like. Open a terminal window and type in  
+Before running the Splunk app – check what a packet capture actually looks like. Open a terminal window and enter  
 
      sudo tcpdump
 
@@ -56,7 +56,7 @@ The app should start indexing the data within 3 minutes, but this can take a whi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Go to the PCAP Analyzer for Splunk app
-Under Conversations, add the pcap file to analyze on various screens via “Select tcpdump files”. (The data provided for this lab came from the Western Regional Collegiate Cyber Defense Competition in February of 2019.)
+Under Conversations, add the pcap file to analyze on various screens via “Select tcpdump files”. 
 
 In the "Select Statistics", select Conversations by Packets.
 
@@ -65,3 +65,5 @@ Hit Submit.
 Check the results below.
 
 ![100122_SIEM400-4 Lab](https://user-images.githubusercontent.com/123989567/219963634-a6c80a55-cd97-4d35-a25c-769b48060910.jpg)
+
+(The data provided for this lab came from the Western Regional Collegiate Cyber Defense Competition in February of 2019.)
