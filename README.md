@@ -39,7 +39,7 @@ Give rwxrwxrwx permissions to the SplunkForPCAP folder.
 Download an example PCAP file to the /home/siem/PCAP/ directory to investigate.
 
      cd /home/siem/ 
-     git clone "PCAP repository" 
+     git clone "specify a PCAP repository" 
      
 Log in to Splunk and create a new index called investigations (Settings > Indexes menu.)
 
